@@ -1,6 +1,6 @@
-# CMPE257-Machine_Learning
+# CMPE 257-Machine_Learning - Team 8
 
-## Team Info and usernames
+## Team Members and Github Usernames
 1. Nhat Trinh [011227645] - nhattrinh
 2. Suhas Byrapuneni [016118596] - suhas-byrapuneni
 3. Venkata Sai Sri Batchu [016118557] - chaitanya1818
