@@ -1,10 +1,10 @@
 # CMPE257-Machine_Learning
 
 ## Team Info and usernames
-Nhat Trinh [011227645] - nhattrinh
-Suhas Byrapuneni [016118596] - suhas-byrapuneni
-Venkata Sai Sri Batchu [016118557] - chaitanya1818
-Rutik Sanjay Sangle [016007589] - rutiksangle3436
+1. Nhat Trinh [011227645] - nhattrinh
+2. Suhas Byrapuneni [016118596] - suhas-byrapuneni
+3. Venkata Sai Sri Batchu [016118557] - chaitanya1818
+4. Rutik Sanjay Sangle [016007589] - rutiksangle3436
 
 
 ## Data
