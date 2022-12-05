@@ -200,7 +200,7 @@ def walk_forward_validation(data, n_test):
 data = series_to_supervised(df, n_in=6)
 print(data)
 # evaluate
-mae, y, yhat = walk_forward_validation(data, 12)
+mae, y, yhat = walk_forward_validation(data, 230)
 print('MAE: %.3f' % mae)
 # plot expected vs preducted
 pyplot.plot(y, label='Expected')
